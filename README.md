@@ -1,2 +1,2 @@
 # Users-registration
-Simple users login did it in HTML, CSS, JavaScript, jQuery and PHP.
+Simple users registration did it in HTML, CSS, JavaScript, jQuery and PHP.
